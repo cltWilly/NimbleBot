@@ -1,2 +1,2 @@
 # NimbleBot
-Simple Roblox bort
+Simple Roblox bot
